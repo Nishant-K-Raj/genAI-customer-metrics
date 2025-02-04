@@ -1,0 +1,2 @@
+IMPALA_QUERY = """
+"""
